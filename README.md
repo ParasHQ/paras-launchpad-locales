@@ -10,7 +10,7 @@ Paras' user interface now only supports English. With more communities joining, 
 
 ## Acceptance Criteria
 
-The translator must create a pull request to GitHub - ParasHQ/paras-launchpad-locales. Please put the translations inside {language-code}/ . e.g. for Japanese it will be jpn/
+The translator must create a pull request to GitHub - ParasHQ/paras-launchpad-locales
 
 The translation must cover all string values inside every JSON files in en/
 
