@@ -1,0 +1,190 @@
+{
+  "Home": {
+    "section1": {
+      "launchpad_for_projects": "Launchpad for Projects of Future, on Astar Network. <br></br>",
+      "discover_limitless": "Discover the limitless possibilities of NFTs with our launchpad. <br></br> Experiment and explore the world of NFTs",
+      "btn_claim": "Claim NFT",
+      "btn_apply": "Apply Projects"
+    },
+    "spotlight": {
+      "spotlight": "Spotlight",
+      "claim_price": "Claim price",
+      "free": "Free",
+      "details": "Details",
+      "minted": "Minted",
+      "minting_stopped": "Minting Stopped",
+      "claim_nft": "Claim NFT"
+    },
+    "dapp_staking": {
+      "gain_more": "Gain More Access by Staking your ASTR",
+      "be_part_community": "Be part of the community by staking your ASTR with Paras. Gain access to exclusive rewards, community perks, and other exciting opportunities",
+      "btn_stake_astr": "Stake $ASTR",
+      "btn_about": "About Paras"
+    },
+    "whats_good": {
+      "user_friendly": "A User-friendly, Seamless, and Secure Experience",
+      "verified": "Verified Launches",
+      "desc_verified": "We’re committed towards building a higher level of assurance and credibility at Paras Launchpad. Through consistent evaluations to ensure the legitimacy and quality of all projects, creators and collectors are able to safely instill their confidence in verified launches.",
+      "multichain": "Multi-chain Support",
+      "desc_multichain": "Our platform arms users with greater flexibility and access to a wider range of NFTs across different blockchain networks, with the aim of expanding the reach of potential audiences and promoting interoperability, which benefits both creators and collectors.",
+      "go_beyond": "Go Beyond NFT",
+      "desc_gobeyond": "Continuing to push beyond existing boundaries drives our commitment towards providing innovative services and features towards creators. Unlock the future as you explore the endless possibilities of NFTs, ranging from Art, Comic, Toys, Phygital and more.",
+      "cocreation": "Co-creation",
+      "desc_cocreation": "Paras puts the needs and interests of our users first. Whetheryou're a creator looking to showcase your work or a collector searching for unique and exciting NFTs, we invite you to join our community and help us shape the future of NFTs together."
+    },
+    "about": {
+      "premier_launchpad": "The premier launchpad to expand the endgame of NFTs",
+      "desc_premier_launchpad": "We are arming the creators of the future. We believe the future of innovation will be built on a foundation of a more open and decentralized world. Everyone will have the same opportunity to change the world, and it starts with Paras.",
+      "btn_apply": "Apply Projects",
+      "btn_about": "About Paras"
+    },
+    "backers": {
+      "our_backers": "Our Backers",
+      "ventures": "Ventures",
+      "angels": "Angels"
+    }
+  },
+  "RefundPolicy": {
+    "hero": {
+      "bridging": "Bridging Web2 and Web3\n with Refundable NFT",
+      "paras_designed": "Paras Launchpad is designed for mass adoption, and we’re\n proud to offer a unique refundable feature that sets us apart\n from the rest. 90 days. Up to 95%",
+      "btn_apply": "Apply Projects"
+    },
+    "explanation": {
+      "refundable": "Refundable NFTs\nup to 95%",
+      "rest_assured":"Rest assured that your NFT purchase is protected with refundable functionality and coded directly into the smart contract.",
+      "flexibility": "You'll have the flexibility to learn and explore this exciting space without any risk, making it easier than ever to get started."
+    },
+    "hero_middle": {
+      "we_believe": "We believe that Refundable NFTs\nare the perfect way to onboard\nnew users into Web3",
+      "whether_youre": "Whether you're an experienced NFT collector or just getting\n started, our Refundable NFTs are the perfect way to join the\ncommunity and experience all that Web3 has to offer.",
+      "btn_apply": "Apply Projects"
+    },
+    "faq": {
+      "faq": "FAQ",
+      "whats_refund": "What is Refundable NFT?",
+      "desc_whats_refund": "Refundable NFT is NFT that can be refunded with terms and conditions",
+      "when_refund": "When can I refund my NFT?",
+      "desc_when_refund": "NFT is refundable after the minting period is over",
+      "whats_nft": "What NFT that I can refund?",
+      "desc_whats_nft": "You can refund the NFT that you mint from our launchpad.",
+      "howlong_refund": "How long does it take to refund my NFT?",
+      "desc_howlong_refund": "You can refund your NFT after the post mint until 90 days after the collection launched",
+      "howmany_nft": "How many NFT that can I refund?",
+      "desc_howmany_nft": "You can refund as many NFT that you mint from our launchpad.",
+      "whats_happen": "What happens to the refunded NFT?",
+      "desc_whats_happen": "Once it’s refunded the NFT will be transferred to the refund address. The refund address will be set by the project’s creator."
+    }
+  },
+  "MyNft": {
+    "account": "ACCOUNT",
+    "total_collections": "Total Collections",
+    "total_nfts": "Total NFTs",
+    "my_nfts": "My NFTs",
+    "minted_item": "Minted {total_minted} Item",
+    "nft_being_indexed": "NFT is still being indexed, please refresh the page in a few minutes", 
+    "no_nfts": "No NFTs yet"    
+  },
+  "ProjectDetail": {
+    "mint": "Mint",
+    "header": {
+      "ends_in": "Ends in <countdown></countdown>",
+      "price": "Price",
+      "free": "Free",
+      "already_minted": "already minted",
+      "supply_item": "Supply {total_supply} Item",
+      "limited_supply": "Limited supply"
+    },
+    "mint_options": {
+      "price": "Price",
+      "ends_in": ". Ends in <timer></timer>",
+      "ended": "Ended",
+      "closed": "Closed",
+      "starts_in": "Starts in",
+      "mint_options": "Mint Options"
+    },
+    "collections": {
+      "collections": "Collections"
+    },
+    "story": {
+      "story": "Story"
+    },
+    "story2": {
+      "user_friendly": "A User-friendly, Seamless, and Secure Experience",
+      "verified": "Verified Launches",
+      "desc_verified": "We’re committed towards building a higher level of assurance and credibility at Paras Launchpad. Through consistent evaluations to ensure the legitimacy and quality of all projects, creators and collectors are able to safely instill their confidence in verified launches.",
+      "multichain": "Multi-chain Support",
+      "desc_multichain": "Our platform arms users with greater flexibility and access to a wider range of NFTs across different blockchain networks, with the aim of expanding the reach of potential audiences and promoting interoperability, which benefits both creators and collectors.",
+      "go_beyond": "Go Beyond NFT",
+      "desc_gobeyond": "Continuing to push beyond existing boundaries drives our commitment towards providing innovative services and features towards creators. Unlock the future as you explore the endless possibilities of NFTs, ranging from Art, Comic, Toys, Phygital and more.",
+      "cocreation": "Co-creation",
+      "desc_cocreation": "Paras puts the needs and interests of our users first. Whetheryou're a creator looking to showcase your work or a collector searching for unique and exciting NFTs, we invite you to join our community and help us shape the future of NFTs together."
+    },
+    "other_projects": {
+      "other_projects": "Other projects",
+      "minted": "Minted",
+      "minting_stopped": "Minting Stopped",
+      "claim_nft": "Claim NFT",
+      "details": "Details",
+      "project_details": "Project Details"
+    },
+    "about": {
+      "powerful_launchpad": "Powerful Launchpad to expand the endgame of NFTs Projects",
+      "paras_is": "Paras is an NFT launchpad & marketplace for digital collectibles. We focus on supporting and developing the crypto-native IPs",
+      "btn_about": "About Paras",
+      "btn_apply": "Apply Projects"
+    },
+    "backers": {
+      "our_backers": "Our Backers",
+      "ventures": "Ventures",
+      "angels": "Angels"
+    }
+  },
+  
+  "Navbar": {
+    "projects": "Projects",
+    "marketplace": "Marketplace",
+    "my_nft": "My NFTs",
+    "connecting": "Connecting...",
+    "connect": "Connect"
+  },
+  "Footer": {
+    "refund_policy": "Paras Refund Policy"
+  },
+  "Status": {
+    "closed": "Closed",
+    "end": "End",
+    "live": "Live"
+  },
+  "ChooseAccountModal": {
+    "active": "Active",
+    "disconnect":"Disconnect"
+  },
+  "SuccessModal": {
+    "success": "Payment Success",
+    "success_minted": "You have successfully minted",
+    "share_to": "Share to",
+    "close": "Close",
+    "my_nft": "My NFTs"
+  },
+  "NotifyModal": {
+    "we_send_you": "We will send you an email for new collection launches",
+    "your_email": "Your Email",
+    "enter_email": "Enter your email...",
+    "cancel": "Cancel",
+    "submit": "Submit"
+  },
+  "MintModal": {
+    "you_dont_have_astar": "You don’t have enough $ASTR",
+    "buy_via": "Buy via Transak",
+    "gas_fee": "Gas Fee",
+    "storage_deposit": "Storage Deposit",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "item": "Item",
+    "mint": "Mint"
+  },
+  "LanguageModal": {
+    "language": "Language"
+  }
+}
