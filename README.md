@@ -12,7 +12,7 @@ Paras' user interface now only supports English. With more communities joining, 
 
 The translator must create a pull request to GitHub - ParasHQ/paras-launchpad-locales
 
-The translation must cover all string values inside every JSON files in en/
+The translation must convert all values from en.json to the Japanese version in jpn.json
 
 ## Bounty
 
@@ -20,7 +20,7 @@ $100 paid in crypto per language.
 
 ## Terms and Conditions
 
-- Scope of work: The translator will translate the website https://launchpad.paras.id/ into Japanese language as specified by the client.
+- Scope of work: The translator will translate the website https://launchpad.paras.id/ into the Japanese language as specified by the client.
 - Ownership of the translation: Paras will retain ownership of the translation and all intellectual property rights related to the translation.
 - Confidentiality: The translator will not disclose confidential information related to the website or the client to any third party.
 - Quality of the translation: The translator will provide a high-quality translation that accurately conveys the original text's meaning. The client reserves the right to request revisions if the translation does not meet these standards. We will not accept any translation tools (e.g., Google Translate).
