@@ -24,5 +24,5 @@ $100 paid in crypto per language.
 - Ownership of the translation: Paras will retain ownership of the translation and all intellectual property rights related to the translation.
 - Confidentiality: The translator will not disclose confidential information related to the website or the client to any third party.
 - Quality of the translation: The translator will provide a high-quality translation that accurately conveys the original text's meaning. The client reserves the right to request revisions if the translation does not meet these standards. We will not accept any translation tools (e.g., Google Translate).
-- Compensation: The translator will be compensated at $250 per language once their pull request is accepted. Be aware that we
+- Compensation: The translator will be compensated at $100 per language once their pull request is accepted. Be aware that we
 - Entire agreement: This agreement constitutes the agreement between the parties and supersedes all prior agreements or understandings, whether written or oral.
