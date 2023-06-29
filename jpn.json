@@ -1,0 +1,190 @@
+{
+    "Home": {
+      "section1": {
+        "launchpad_for_projects": "Astarで行われるプロジェクトのためのランチパッド<br></br>",
+        "discover_limitless": "ランチパッドでNFTの無限の可能性を発見しなさい。 <br></br> NFTの世界を実験して探検しなさい。",
+        "btn_claim": "NFTクレイム",
+        "btn_apply": "プロジェクトを登録する"
+      },
+      "spotlight": {
+        "spotlight": "スポットライト",
+        "claim_price": "クレイム価格",
+        "free": "無料",
+        "details": "詳細情報",
+        "minted": "ミントされました",
+        "minting_stopped": "ミント中止",
+        "claim_nft": "NFTクレイム"
+      },
+      "dapp_staking": {
+        "gain_more": "ASTRをステーキングしてより多くの参加機会を獲得してください",
+        "be_part_community": "ParasにASTRをステーキングしてコミュニティの一員になってください。 独占補償、コミュニティ特典、その他の興味深い機会にアクセスすることができます。",
+        "btn_stake_astr": "$ASTRステーキング",
+        "btn_about": "Parasについて"
+      },
+      "whats_good": {
+        "user_friendly": "使いやすい、シームレス、安全なエクスペリエンス",
+        "verified": "検証済みのプロジェクト",
+        "desc_verified": "私たちはParas Launchpadでより高い水準の保証と信頼性を構築するために最善を尽くしています。 全てのプロジェクトの適法性と品質を保証するための一貫した評価により、制作者とコレクターは検証されたリリースに対する確信を持つことができます。",
+        "multichain": "マルチチェーン対応",
+        "desc_multichain": "Parasは潜在的なユーザーの範囲を拡大し、相互運用性を促進して、制作者とコレクターの両方に利益をもたらすことを目標に、ユーザーにより大きな柔軟性と多様なブロックチェーンネットワークからより広い範囲のNFTへのアクセスを提供します。",
+        "go_beyond": "NFTを越えて",
+        "desc_gobeyond": "既存の境界を越えて新しい未来を作ろうとする努力は、制作者に革新的なサービスと機能を提供しようとする私たちの努力を引き出します。Art、Comic、Toys、PhygitalなどNFTの無限の可能性を探索しながら未来を切り開いてみてください。",
+        "cocreation": "共同クリエーション",
+        "desc_cocreation": "Parasはユーザーのニーズと関心を最優先に考えています。 自分の作品を見せようとする制作者、ユニークで興味深いNFTを探すコレクター、私たちはコミュニティを作ってNFTの未来を共に作っていくのに役立つように頑張っています。"
+      },
+      "about": {
+        "premier_launchpad": "NFTのエンドゲームを拡張する最高のランチパッド",
+        "desc_premier_launchpad": "私たちは未来のクリエイターをサポートしています。 私たちは革新の未来がより開放的で脱中央化された世界を基盤に構築されると信じています。 誰でも世界を変える同じ機会を持つようになり、その始まりはParasです。",
+        "btn_apply": "プロジェクトを登録する",
+        "btn_about": "Parasについて"
+      },
+      "backers": {
+        "our_backers": "Our Backers",
+        "ventures": "Ventures",
+        "angels": "Angels"
+      }
+    },
+    "RefundPolicy": {
+      "hero": {
+        "bridging": "払戻可能なNFTでWeb2とWeb3を接続",
+        "paras_designed": "Paras Launchpadはマスアダプションを目指します。既存の製品とは差別化された固有の払い戻し機能を提供します。ミントした後の日によって最大95%までを払い戻します。",
+        "btn_apply": "プロジェクトを登録する"
+      },
+      "explanation": {
+        "refundable": "最大95%まで払い戻しが可能なNFT",
+        "rest_assured":"貴方のNFTの購入は払い戻し可能な機能とスマートコントラクトを通して保護されます。",
+        "flexibility": "リスク無しでこのエキサイティングなNFTの世界を学び、探索ができる柔軟性があり、これまで以上に簡単に始めることができます。"
+      },
+      "hero_middle": {
+        "we_believe": "私たちは払戻可能なNFTが新規ユーザーをWeb3にオンボーディングする完璧な方法だと確信しています。",
+        "whether_youre": "Whether you're an experienced NFT collector or just getting\n started, our Refundable NFTs are the perfect way to join the\ncommunity and experience all that Web3 has to offer.",
+        "btn_apply": "プロジェクトを登録する"
+      },
+      "faq": {
+        "faq": "FAQ",
+        "whats_refund": "払戻できるNFTは何ですか？",
+        "desc_whats_refund": "払戻可能なNFTは規定と条件に従って払い戻しができるNFTです。",
+        "when_refund": "NFTはいつ払い戻しができますか？",
+        "desc_when_refund": "NFTはミントの期間終了後に払い戻しができます。",
+        "whats_nft": "払い戻しできるNFTは何ですか？",
+        "desc_whats_nft": "ランチパッドでミントしたNFTを払い戻すことができます。",
+        "howlong_refund": "NFTを払戻できる期間はいつまでですか？",
+        "desc_howlong_refund": "NFTはポストミントの後、コレクション開始から90日後まで払戻ができます。",
+        "howmany_nft": "NFTは何個まで払戻ができますか？",
+        "desc_howmany_nft": "ランチパッドでミントした分のNFTを払い戻すことができます。",
+        "whats_happen": "払戻されたNFTはどうなりますか？",
+        "desc_whats_happen": "払戻されると、NFTが払戻アドレスに送信されます。 払い戻しアドレスはプロジェクト作成者が設定します。"
+      }
+    },
+    "MyNft": {
+      "account": "アカウント",
+      "total_collections": "コレクションの合計",
+      "total_nfts": "NFTの合計",
+      "my_nfts": "私のNFT",
+      "minted_item": "ミント {total_minted} アイテム",
+      "nft_being_indexed": "NFTをまだインデックス中です。数分後にページを更新してください。", 
+      "no_nfts": "まだNFTがありません"    
+    },
+    "ProjectDetail": {
+      "mint": "ミント",
+      "header": {
+        "ends_in": "販売終了 <countdown></countdown>",
+        "price": "価格",
+        "free": "無料",
+        "already_minted": "ミントされました",
+        "supply_item": "供給量 {total_supply} アイテム",
+        "limited_supply": "供給量制限"
+      },
+      "mint_options": {
+        "price": "価格",
+        "ends_in": "終了期間 <timer></timer>",
+        "ended": "終了いたしました。",
+        "closed": "締切",
+        "starts_in": "販売開始",
+        "mint_options": "ミントのオプション"
+      },
+      "collections": {
+        "collections": "コレクション"
+      },
+      "story": {
+        "story": "Story"
+      },
+      "story2": {
+        "user_friendly": "使いやすい、シームレス、安全なエクスペリエンス",
+        "verified": "検証済みのプロジェクト",
+        "desc_verified": "私たちはParas Launchpadでより高い水準の保証と信頼性を構築するために最善を尽くしています。 全てのプロジェクトの適法性と品質を保証するための一貫した評価により、制作者とコレクターは検証されたリリースに対する確信を持つことができます。",
+        "multichain": "マルチチェーン対応",
+        "desc_multichain": "Parasは潜在的なユーザーの範囲を拡大し、相互運用性を促進して、制作者とコレクターの両方に利益をもたらすことを目標に、ユーザーにより大きな柔軟性と多様なブロックチェーンネットワークからより広い範囲のNFTへのアクセスを提供します。",
+        "go_beyond": "NFTを越えて",
+        "desc_gobeyond": "既存の境界を越えて新しい未来を作ろうとする努力は、制作者に革新的なサービスと機能を提供しようとする私たちの努力を引き出します。Art、Comic、Toys、PhygitalなどNFTの無限の可能性を探索しながら未来を切り開いてみてください。",
+        "cocreation": "共同クリエーション",
+        "desc_cocreation": "Parasはユーザーのニーズと関心を最優先に考えています。 自分の作品を見せようとする制作者、ユニークで興味深いNFTを探すコレクター、私たちはコミュニティを作ってNFTの未来を共に作っていくのに役立つように頑張っています。"
+      },
+      "other_projects": {
+        "other_projects": "他のプロジェクト",
+        "minted": "ミントされました",
+        "minting_stopped": "ミント中止",
+        "claim_nft": "NFTクレイム",
+        "details": "詳細情報",
+        "project_details": "プロジェクトの詳細情報"
+      },
+      "about": {
+        "powerful_launchpad": "NFTのエンドゲームを拡張する素敵なランチパッド",
+        "paras_is": "ParasはデジタルコレクションのためのNFTランチパッド及びマーケットプレイスです。 私たちは暗号化ネイティブIPのサポートと開発に重点を置いています。",
+        "btn_about": "Parasについて",
+        "btn_apply": "プロジェクトを登録する"
+      },
+      "backers": {
+        "our_backers": "Our Backers",
+        "ventures": "Ventures",
+        "angels": "Angels"
+      }
+    },
+    
+    "Navbar": {
+      "projects": "プロジェクト",
+      "marketplace": "マーケットプレイス",
+      "my_nft": "私のNFT",
+      "connecting": "接続中...",
+      "connect": "コネクト"
+    },
+    "Footer": {
+      "refund_policy": "Paras払い戻しポリシー"
+    },
+    "Status": {
+      "closed": "終了",
+      "end": "締切",
+      "live": "ライブ"
+    },
+    "ChooseAccountModal": {
+      "active": "アクティブ",
+      "disconnect":"ディスコネクト"
+    },
+    "SuccessModal": {
+      "success": "支払い完了",
+      "success_minted": "ミントに成功しました",
+      "share_to": "共有",
+      "close": "閉じる",
+      "my_nft": "私のNFT"
+    },
+    "NotifyModal": {
+      "we_send_you": "新しいコレクションのリリースに関するメールをお送りします。",
+      "your_email": "貴方の電子メール",
+      "enter_email": "貴方の電子メールを入力してください。。。",
+      "cancel": "取り消し",
+      "submit": "提出"
+    },
+    "MintModal": {
+      "you_dont_have_astar": "貴方は十分な$ASTRを持っていません。",
+      "buy_via": "Transakを通して購入する",
+      "gas_fee": "手数料",
+      "storage_deposit": "ストレージ保証金",
+      "cancel": "取り消し",
+      "confirm": "確認",
+      "item": "アイテム",
+      "mint": "ミント"
+    },
+    "LanguageModal": {
+      "language": "言語"
+    }
+  }
