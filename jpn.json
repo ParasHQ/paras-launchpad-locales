@@ -2,7 +2,7 @@
     "Home": {
       "section1": {
         "launchpad_for_projects": "Astarで行われるプロジェクトのためのランチパッド<br></br>",
-        "discover_limitless": "ランチパッドでNFTの無限の可能性を発見しなさい。 <br></br> NFTの世界を実験して探検しなさい。",
+        "discover_limitless": "ランチパッドでNFTの無限の可能性を発見しなさい。 <br></br> NFTの世界を探検しなさい。",
         "btn_claim": "NFTクレイム",
         "btn_apply": "プロジェクトを登録する"
       },
@@ -16,7 +16,7 @@
         "claim_nft": "NFTクレイム"
       },
       "dapp_staking": {
-        "gain_more": "ASTRをステーキングしてより多くの参加機会を獲得してください",
+        "gain_more": "ASTRをステーキングしてより多くの参加機会を獲得しなさい",
         "be_part_community": "ParasにASTRをステーキングしてコミュニティの一員になってください。 独占補償、コミュニティ特典、その他の興味深い機会にアクセスすることができます。",
         "btn_stake_astr": "$ASTRステーキング",
         "btn_about": "Parasについて"
@@ -28,13 +28,13 @@
         "multichain": "マルチチェーン対応",
         "desc_multichain": "Parasは潜在的なユーザーの範囲を拡大し、相互運用性を促進して、制作者とコレクターの両方に利益をもたらすことを目標に、ユーザーにより大きな柔軟性と多様なブロックチェーンネットワークからより広い範囲のNFTへのアクセスを提供します。",
         "go_beyond": "NFTを越えて",
-        "desc_gobeyond": "既存の境界を越えて新しい未来を作ろうとする努力は、制作者に革新的なサービスと機能を提供しようとする私たちの努力を引き出します。Art、Comic、Toys、PhygitalなどNFTの無限の可能性を探索しながら未来を切り開いてみてください。",
+        "desc_gobeyond": "既存の境界を越えて新しい未来を作ろうとする努力は制作者に革新的なサービスと機能を提供しようとする私たちの努力を引き出します。Art、Comic、Toys、PhygitalなどNFTの無限の可能性を探索しながら未来を切り開いてみてください。",
         "cocreation": "共同クリエーション",
         "desc_cocreation": "Parasはユーザーのニーズと関心を最優先に考えています。 自分の作品を見せようとする制作者、ユニークで興味深いNFTを探すコレクター、私たちはコミュニティを作ってNFTの未来を共に作っていくのに役立つように頑張っています。"
       },
       "about": {
         "premier_launchpad": "NFTのエンドゲームを拡張する最高のランチパッド",
-        "desc_premier_launchpad": "私たちは未来のクリエイターをサポートしています。 私たちは革新の未来がより開放的で脱中央化された世界を基盤に構築されると信じています。 誰でも世界を変える同じ機会を持つようになり、その始まりはParasです。",
+        "desc_premier_launchpad": "私たちは未来のクリエイターをサポートしています。 私たちは革新の未来がより開放的で脱中央化された世界を基盤に構築されると考えています。 誰でも世界を変える同じ機会を持つようになり、その始まりはParasです。",
         "btn_apply": "プロジェクトを登録する",
         "btn_about": "Parasについて"
       },
@@ -98,7 +98,7 @@
       "mint_options": {
         "price": "価格",
         "ends_in": "終了期間 <timer></timer>",
-        "ended": "終了いたしました。",
+        "ended": "終了",
         "closed": "締切",
         "starts_in": "販売開始",
         "mint_options": "ミントのオプション"
@@ -152,8 +152,8 @@
       "refund_policy": "Paras払い戻しポリシー"
     },
     "Status": {
-      "closed": "終了",
-      "end": "締切",
+      "closed": "締切",
+      "end": "終了",
       "live": "ライブ"
     },
     "ChooseAccountModal": {
